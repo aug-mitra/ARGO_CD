@@ -4,7 +4,7 @@ go 1.22.0
 
 require (
 	code.gitea.io/sdk/gitea v0.19.0
-	dario.cat/mergo v1.0.1
+	dario.cat/mergo v1.0.2
 	github.com/Azure/kubelogin v0.1.6
 	github.com/Masterminds/semver/v3 v3.3.1
 	github.com/Masterminds/sprig/v3 v3.3.0
